@@ -1,0 +1,171 @@
+body{
+	margin: 2px;
+}
+.wrap{
+	margin: auto;
+	background: #e3ee3e3;
+	overflow: hidden;
+	width: 650px;
+	height: 1500px;
+	border: 2px solid black;
+}
+.div1{
+	border: 2px solid red;
+	width: 48%;
+	height: 98%;
+	margin: 5px 5px;
+	float: left;
+}
+.b1{
+	border: 2px solid blue;
+	width: 98%;
+	height: 31.5%;
+	margin: 2px 2px;
+}
+.b1_1{
+	border: 2px solid black;
+	width: 98%;
+	height: 98.5%;
+	margin: 2px 2px;
+}
+.b1_1 img{
+	border-radius: 50%;
+	height:100px;
+	width: 100px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding: 0 35%;
+}
+.b1_1 h1{
+	text-align: center;
+}
+.b1_1 h6{
+	text-align: center;
+}
+.b2{
+	border: 2px solid blue;
+	width: 98%;
+	height: 22%;
+	margin: 2px 2px;
+}
+.b2_1 img{
+	border-radius: 50%;
+	height:50px;
+	width: 50px;
+	float: left;
+}
+.b2_1 p{
+	float: left;
+}
+.b2_1 hr{
+	float: left;
+	width: 75px;
+	margin-top: 25px;
+}
+.b3{
+	border: 2px solid blue;
+	width: 98%;
+	height: 22%;
+	margin: 2px 2px;
+}
+.b3_1 img{
+	border-radius: 50%;
+	height:50px;
+	width: 50px;
+	float: left;
+}
+.b3_1 p{
+	float: left;
+}
+.b3_1 hr{
+	float: left;
+	width: 75px;
+	margin-top: 25px;
+}
+.b4{
+	border: 2px solid blue;
+	width: 98%;
+	height: 22%;
+	margin: 2px 2px;
+}
+.b4_1 img{
+	border-radius: 50%;
+	height:50px;
+	width: 50px;
+	float: left;
+}
+.b4_1 p{
+	float: left;
+}
+.b4_1 hr{
+	float: left;
+	width: 75px;
+	margin-top: 25px;
+}
+.div2{
+	border: 2px solid blue;
+	width: 48%;
+	height: 98%;
+	margin: 5px 5px;
+	float: right;
+}
+.b5{
+	border: 2px solid red;
+	width: 98%;
+	height: 40%;
+	margin: 2px 2px;
+}
+.b5_1 img{
+	border-radius: 50%;
+	height:50px;
+	width: 50px;
+	float: left;
+}
+.b5_1 p{
+	float: left;
+}
+.b5_1 hr{
+	float: left;
+	width: 75px;
+	margin-top: 25px;
+}
+.b6{
+	border: 2px solid red;
+	width: 98%;
+	height: 29%;
+	margin: 2px 2px;
+}
+.b6_1 img{
+	border-radius: 50%;
+	height:50px;
+	width: 50px;
+	float: left;
+}
+.b6_1 p{
+	float: left;
+}
+.b6_1 hr{
+	float: left;
+	width: 75px;
+	margin-top: 25px;
+}
+.b7{
+	border: 2px solid red;
+	width: 98%;
+	height: 29%;
+	margin: 2px 2px;
+}
+.b7_1 img{
+	border-radius: 50%;
+	height:50px;
+	width: 50px;
+	float: left;
+}
+.b7_1 p{
+	float: left;
+}
+.b7_1 hr{
+	float: left;
+	width: 75px;
+	margin-top: 25px;
+}
